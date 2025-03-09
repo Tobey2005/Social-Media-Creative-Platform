@@ -1,0 +1,133 @@
+body {
+    background-image: url(Landing\ page\ image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:local;
+    background-position: center;
+    
+    
+    
+  
+    
+}
+
+
+
+
+.focal {
+    color: rgb(139, 136, 136);
+    position:absolute;
+    top: 48%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+    
+    
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    backdrop-filter: blur(1px) grayscale(10%);
+    border-radius: 90%;
+    border-style:hidden;
+    border-color: rgb(235, 15, 15);
+    border-width: 4px;
+    width: 655px;
+    height: 600px;
+    z-index: -1;
+    
+}
+
+
+ 
+
+
+   
+  
+
+
+.header {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2em;
+    font-family: 'Impact';
+    
+    
+    
+    
+}
+
+.header a {
+    
+    background-color: radial-gradient(rgb(235, 15, 15), rgb(139, 136, 136));
+    color: white;
+    border-radius: 1000px; 
+    
+}
+
+
+
+
+.slogan {
+   
+
+    margin-top:auto;
+    margin-bottom:auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    text-align:center;
+    width:fit-content;
+    font-family: 'Lexend', sans-serif;
+    font-style: bold;
+    color:rgb(139, 136, 136)
+    
+}
+
+.slogan a {
+    margin-top: 50px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: right;
+    color:black;
+
+}
+
+form {
+    text-align:center;
+    width:min-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    border-width: 1px;
+    border-style:groove;
+    border-color:rgb(139, 136, 136);
+    color:rgb(139, 136, 136);
+}
+
+.entry input {
+    color:rgb(226, 29, 29);
+    text-decoration: none;
+}
+
+
+
+.navbar {
+    
+    text-align: center; 
+    font-family: 'Roboto', sans-serif;
+    font-style: bold;
+    font-size: 1em;
+    margin-top:20%;
+
+}
+.navbar a {
+    color:rgb(235, 18, 18); 
+}
+
+
+
+.footer p {
+    text-align:center;
+}
